@@ -1,7 +1,7 @@
 CSharp
 ======
 
-================================================ COMEÇO LISTA 3 =========================================================
+=============== COMEÇO LISTA 03 ======================
 
 LISTA 3:
 
@@ -40,7 +40,7 @@ veículos e para calcular o total financeiro em estoque.
 
 Lista CSharp
 
-================================================ OBS =========================================================
+=============== OBS ======================
 
 Fiz a primeira questão, a quarta, quinta e a sexta.
 
@@ -48,6 +48,6 @@ Não fiz a segunda nem a terceira pois eram problemas matematicos chatos e inute
 
 Qualquer duvida sobre as resoluções me pergutem!!!!
 
-================================================ FIM LISTA 3 =========================================================
+=============== FIM DA LISTA 03 ======================
 
 
