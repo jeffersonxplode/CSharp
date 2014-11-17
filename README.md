@@ -3,51 +3,35 @@ CSharp
 
 =============== COMEÇO LISTA 03 ======================
 
-LISTA 3:
+LISTA 4:
 
-I. Implementar classes em C# para representar: 
-
-1. Um círculo (figura geométrica). 
-A classe deve ter o atributo raio e métodos para calcular a área e a circunferência do círculo. 
-
-
-2. Um número racional. 
-Os atributos da classe devem ser o numerador e denominador da fração (números inteiros). Os métodos da classe 
-devem possibilitar a realização das operações de adição, subtração, multiplicação e divisão entre dois números 
-racionais. Deve também possuir um método para simplificar a fração, obtendo o menor numerador e denominador 
-possível. 
-
-3. Um número complexo. 
-Os atributos da classe devem ser a parte real e a parte imaginária do número complexo (na forma retangular). Os 
-métodos da classe devem possibilitar a realização das operações de adição, subtração, multiplicação e divisão 
-entre dois números. Deve também possuir um método para retornar o número complexo na forma polar. 
+1. Progressões Matemáticas 
+Desenvolver uma classe abstrata Progressão que tenha como atributos o primeiro elemento e a razão da 
+progressão. Os métodos implementados da classe devem atribuir e retornar os valores dos atributos. Os métodos 
+abstratos devem retornar, para um valor dado n (parâmetro), os n elementos da progressão, o n-ésimo elemento e 
+a soma dos n-ésimos primeiros elementos. 
+Desenvolver duas classes descendentes: PA e PG que representem progressões aritméticas e geométricas, 
+respectivamente. Essas classes devem implementar os métodos abstratos da classe Progressão. 
 
 
-4. Uma progressão matemática. 
-Os atributos da classe devem ser o primeiro elemento, a razão da progressão e o tipo de progressão (aritmética 
-ou geométrica). Os métodos da classe devem retornar, para um valor dado n (parâmetro), os n elementos da 
-progressão, o n-ésimo elemento e a soma dos n-ésimos primeiros elementos. 
+2. Alunos e Professores 
+Desenvolver uma classe Pessoa que tenha como atributos nome, data de nascimento e matrícula de um aluno ou 
+professor de uma escola. Os métodos da classe devem atribuir e retornar os valores dos atributos. Esta classe 
+deve implementar a interface IPessoa que possui métodos para retornar o nome e a data de nascimento. 
+Desenvolver duas classes descendentes Aluno e Professor. A classe aluno acrescenta o atributo curso e a classe 
+Professor, o atributo diretoria. 
+Fazer um programa para cadastrar alunos e professores de uma escola e obter a lista de aniversariantes do mês 
+utilizando um vetor de IPessoa. 
 
-
-
-5. Um Veículo. 
-Os atributos da classe devem ser fabricante, modelo, ano e preço de venda do veículo. 
-
-6. Uma Loja de Veículos 
-Os atributos da classe devem ser nome, endereço e estoque de veículos da loja. A classe deve ter métodos para 
-pesquisar no estoque por veículos de um fabricante, modelo ou faixa de preço, para retornar a listagem de 
-veículos e para calcular o total financeiro em estoque. 
 
 Lista CSharp
 
 =============== OBS ======================
 
-Fiz a primeira questão, a quarta, quinta e a sexta.
+Fiz a primeira questão só, teve uns problemas na hora de compilar fiquei um tempinho para descobrir o que era mas consegui.
 
-Não fiz a segunda nem a terceira pois eram problemas matematicos chatos e inuteis e não dou a minima para eles.
+A questão 2 ainda não saquei a ultima parte.
 
-Qualquer duvida sobre as resoluções me pergutem!!!!
-
-=============== FIM DA LISTA 03 ======================
+=============== FIM DA LISTA 04 ======================
 
 
